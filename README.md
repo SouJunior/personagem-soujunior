@@ -3,7 +3,7 @@
 ## Desafio:
 Crie um personagem que você acredita que representa o SouJunior.  
 Pode ser totalmente criativo!  
-Exemplo: Como você se represntaria como Junior no mundo da tech?  
+Exemplo: Como você se representaria como Junior no mundo da tech?  
 
 # Regras: 
   -  Deixe uma estrela nesse repositorio (Star).
